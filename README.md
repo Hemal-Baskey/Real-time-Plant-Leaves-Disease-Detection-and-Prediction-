@@ -1,1 +1,1 @@
-# Real-time-Plant-Leaves-Disease-Detection-and-Prediction-
+# Real-time-Plant-Leaves-Disease-Detection-and-Prediction
